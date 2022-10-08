@@ -1,1 +1,1 @@
-PAGES: https://katyag2002.github.io/laba1-2/index.html
+PAGES: https://katyag2002.github.io/LABA1-2/
